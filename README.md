@@ -2,11 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>My GitHub Page</title>
-	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Hello, world!</h1>
+	<h1>This is a placeholder website. Maybe next time the website is finished.</h1>
+	<h1>If you were to find something, I have no things to give you, unfortunately.</h1>
 </body>
 </html>
